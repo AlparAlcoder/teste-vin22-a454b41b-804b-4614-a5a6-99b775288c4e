@@ -1,1 +1,20 @@
-# teste-vin22-a454b41b-804b-4614-a5a6-99b775288c4e
+# teste-vin22
+
+## Descrição
+# Documentação da API FastAPI
+
+## Instalação
+1. Clone o repositório
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Uso
+Execute o servidor:
+```bash
+uvicorn src.main:app --reload
+```
+
+## Documentação
+Consulte a pasta `docs` para a documentação completa do projeto.
